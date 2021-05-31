@@ -1,0 +1,2 @@
+# qwmapshots
+QuakeWorld map screenshots
