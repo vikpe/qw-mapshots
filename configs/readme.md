@@ -1,6 +1,10 @@
 # Map settings
 
-## How to save map positions
+## Automatically generate mapshots
+
+* See [automapshot](https://github.com/vikpe/automapshot)
+
+## How to save camera position and angle
 
 Start ezquake with `-condebug` to debug to `qw/qconsole.log` and use this alias to get map positions
 
