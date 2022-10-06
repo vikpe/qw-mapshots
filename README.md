@@ -12,8 +12,12 @@ Used on various QuakeWorld websites, for example [QuakeWorld Hub](https://hub.qu
 
 ## Source
 
-New versions of these mapshots were created using [automapshot](https://github.com/vikpe/automapshot) with [mapshot.cfg](./configs/mapshot.cfg) and camera position/angles
-from [configs/map_settings.json](./configs/map_settings.json).
+New versions of these mapshots were created using [automapshot](https://github.com/vikpe/automapshot) with the following
+settings:
+
+* [mapshot.cfg](./configs/mapshot.cfg)
+* Camera position/angles from [configs/map_settings.json](./configs/map_settings.json).
+* Textures from [Quake Retexturing Project](http://qrp.quakeone.com/).
 
 ## Related projects
 
