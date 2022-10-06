@@ -12,7 +12,7 @@ Used on various QuakeWorld websites, for example [QuakeWorld Hub](https://hub.qu
 
 ## Source
 
-New versions of these mapshots were created using [automapshot](https://github.com/vikpe/automapshot) using config [mapshot.cfg](./configs/mapshot.cfg) and camera position/angles
+New versions of these mapshots were created using [automapshot](https://github.com/vikpe/automapshot) with [mapshot.cfg](./configs/mapshot.cfg) and camera position/angles
 from [configs/map_settings.json](./configs/map_settings.json).
 
 ## Related projects
