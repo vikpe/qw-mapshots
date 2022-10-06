@@ -18,7 +18,7 @@ settings:
 * [mapshot.cfg](./configs/mapshot.cfg)
 * Camera position/angles from [configs/map_settings.json](./configs/map_settings.json).
 * Textures from [Quake Retexturing Project](http://qrp.quakeone.com/).
-* Resized to `400x225` pixels.
+* Resized to `480x270` pixels.
 
 ## Related projects
 
