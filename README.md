@@ -7,7 +7,7 @@ Used on various QuakeWorld websites, for example [QuakeWorld Hub](https://hub.qu
 ## Usage
 
 ```html
-<img src="https://raw.githubusercontent.com/vikpe/qw-mapshots/main/ztndm3.jpg" />
+<img src="https://a.quake.world/mapshots/ztndm3.jpg" />
 ```
 
 ## Source
