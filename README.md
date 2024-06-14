@@ -5,6 +5,7 @@
 Used on various QuakeWorld websites, for example [QuakeWorld Hub](https://hub.quakeworld.nu).
 
 ## Usage
+The mapshots are available via a AWS Cloudfront instance @ `https://a.quake.world/maphots/`
 
 ```html
 <img src="https://a.quake.world/mapshots/ztndm3.jpg" />
