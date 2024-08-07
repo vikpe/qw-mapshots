@@ -492,6 +492,7 @@
   "spirit1dm3": "cam_pos 2240.000000 320.000000 1088.000000; cam_angles 45 270 -30",
   "spitfire": "cam_pos 104 -304 80; cam_angles 63 0 0",
   "start": "cam_pos 544 288 144.522293; cam_angles 14.344001 89.736 0",
+  "stroggopolis": "cam_pos 3.3135 99.3135 384; cam_angles 7 -92 0",
   "stroggopolis_b3": "cam_pos 3.3135 99.3135 384; cam_angles 7 -92 0",
   "stronghold_b1": "cam_pos -4 518 464; cam_angles 7 268 0",
   "stronghold_ffa": "cam_pos -4 518 464; cam_angles 7 268 0",
