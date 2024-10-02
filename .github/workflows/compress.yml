@@ -23,4 +23,4 @@ jobs:
           # See https://docs.github.com/en/actions/reference/authentication-in-a-workflow and https://help.github.com/en/articles/virtual-environments-for-github-actions#token-permissions
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-          jpegQuality: 85
+          jpegQuality: 80
