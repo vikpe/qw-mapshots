@@ -9,7 +9,7 @@
 Start ezquake with `-condebug` to debug to `qw/qconsole.log` and use this alias to get map positions
 
 ```
-alias mapshot_debug "cam_pos; cam_angles; echo #mapshot# map=$mapname cam_pos=$cam_pos cam_angles=$cam_angles" 
+alias mapshot_debug "cam_pos; cam_angles; echo #mapshot# map=$mapname $cam_pos $cam_angles" 
 ```
 
 ### Example
