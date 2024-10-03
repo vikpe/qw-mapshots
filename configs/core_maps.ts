@@ -1,4 +1,5 @@
-// core maps + popular maps
+// core maps: https://maps.quakeworld.nu/core/
+// + popular maps
 export default {
   "2bfree": "1380 1067 468 25 194 0",
   "3ebluebeta": "TODO",
