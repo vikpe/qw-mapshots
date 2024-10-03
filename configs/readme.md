@@ -2,7 +2,7 @@
 
 ## Automatically generate mapshots
 
-* See [automapshot](https://github.com/vikpe/automapshot)
+* See [automapshot-fte](https://github.com/vikpe/automapshot-fte)
 
 ## How to save camera position and angle
 
