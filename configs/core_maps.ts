@@ -245,7 +245,7 @@ export default {
   "dm7edge": "888 432 864 10 45 0",
   "dm8": "TODO",
   "dm8a": "-1429 -750 -461 0 0 0",
-  "dmcepheus": "280 -200 864 90 90 90",
+  "dmcepheus": "-152 -631 92 15 45 0",
   "dmhip": "TODO",
   "dmm4_1": "TODO",
   "dmm4_2": "TODO",
