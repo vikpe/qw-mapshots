@@ -1,5 +1,4 @@
-// core maps: https://maps.quakeworld.nu/core/
-// + popular maps
+// created by XantoM
 export default {
     "2bfree": "1380 1067 468 25 194 0",
     "dm6++": "864 -1088 336 0 0 0",
