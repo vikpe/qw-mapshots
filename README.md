@@ -13,13 +13,12 @@ The mapshots are available via a AWS Cloudfront instance @ `https://a.quake.worl
 
 ## Source
 
-New versions of these mapshots were created using [automapshot](https://github.com/vikpe/automapshot) with the following
-settings:
+These mapshots were created using [automapshot-fte](https://github.com/vikpe/automapshot-fte) with the following settings:
 
 * [mapshot.cfg](./configs/mapshot.cfg)
-* Camera position/angles from [configs/map_settings.json](./configs/map_settings.json).
+* Camera position/angles from [configs/maps.json](./configs/maps.json).
 * Textures from [Quake Retexturing Project](http://qrp.quakeone.com/).
-* Resized to `480x270` pixels.
+* Resized to `1280x720` pixels.
 
 ## Related projects
 
