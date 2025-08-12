@@ -1,3 +1,8 @@
+# DEPRECATED
+**This project is no longer maintained**, use [mapshots](https://github.com/quakeworld/mapshots) from the QuakeWorld org instead.
+
+---
+
 # mapshots
 
 > QuakeWorld Map Screenshots
